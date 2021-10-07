@@ -1,1 +1,4 @@
-# memory-game-test
+# Intstall
+npm install
+nom start
+check localhost:3000
